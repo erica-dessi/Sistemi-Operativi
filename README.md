@@ -1,4 +1,4 @@
-# Sistemi Operativi
+# Operating Systems
 
 This project was developed in collaboration as part of the **Operating Systems** course at the **University of Turin (UniTo), Department of Computer Science**.
 
